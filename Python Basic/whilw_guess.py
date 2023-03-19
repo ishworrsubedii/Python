@@ -1,7 +1,7 @@
 n=9
 i=0
 while i<3:
-    guess=int(input("Enter the number"))
+    guess=int(input("Enter number"))
     
     if guess== 9:
      print("won")
