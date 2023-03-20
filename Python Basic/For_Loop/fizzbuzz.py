@@ -7,6 +7,4 @@ def fizz_buzz(input):
         print("Buzz")
     else:
         print(input)
-
-
 fizz_buzz(15)
